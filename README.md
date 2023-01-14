@@ -1,4 +1,4 @@
-# ✨ Streamlit based ChatGPT + DALLE-2 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+# ✨ Streamlit based ChatGPT/DALLE-2 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 A simple streamlit based webapp using OpenAI APIs empowered with text generation and image generation functionalities
 
 ![demo_txt](https://user-images.githubusercontent.com/29462447/212479457-f3a11c26-f889-4f33-9569-ea154c95f091.gif)
