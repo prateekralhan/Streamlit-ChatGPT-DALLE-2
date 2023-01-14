@@ -10,7 +10,7 @@ A simple streamlit based webapp using OpenAI APIs empowered with text generation
 
 ## Usage:
 1. Clone this repository and install the dependencies as mentioned above.
-2. Navigate to the OpenAI API section to login and generate your API Key. Ensure you save this API Key as **"OpenAI_API_Key"*** in the form of a system environment variable which shall be used by the webapp.
+2. Navigate to the [OpenAI API section](https://beta.openai.com/account/api-keys) to login and generate your API Key. Ensure you save this API Key as **"OpenAI_API_Key"*** in the form of a system environment variable which shall be used by the webapp. ***( I am only using the Free Trial version which provides 18$ of credits. )***
 2. Simply run the command: 
 ```
 streamlit run app.py
