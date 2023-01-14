@@ -1,6 +1,10 @@
 # ✨ Streamlit based ChatGPT + DALLE-2 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 A simple streamlit based webapp using OpenAI APIs empowered with text generation and image generation functionalities
 
+![demo_txt](https://user-images.githubusercontent.com/29462447/212479457-f3a11c26-f889-4f33-9569-ea154c95f091.gif)
+
+![demo_img](https://user-images.githubusercontent.com/29462447/212479452-3d59ed7b-cbc3-43f1-bdb9-5e9d3b37dadc.gif)
+
 ## Installation:
 * Simply run the command ***pip install -r requirements.txt*** to install the dependencies.
 
@@ -15,6 +19,10 @@ streamlit run app.py
 
 
 ## Results:
+
+![1](https://user-images.githubusercontent.com/29462447/212479438-b2774381-122c-40b3-8380-5a7fa1336483.png)
+
+![2](https://user-images.githubusercontent.com/29462447/212479439-6e6ce078-e61b-4430-9eba-0931b1b199d5.png)
 
 ### Running the Dockerized App
 1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this.](https://docs.docker.com/engine/install/)
